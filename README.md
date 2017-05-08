@@ -1,8 +1,3 @@
-unzip group8.zip using:
-
-unzip group8.zip
-cd group8/
-
 ***How to Compile***
 
 gcc -Wall -o dpc2sim prefetcher/feedback_prefetcher.c lib/dpc2sim.a
